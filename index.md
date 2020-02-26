@@ -58,7 +58,7 @@
 
 ## Other Projects
 
-## GarminIQ: Memo
+### GarminIQ: Memo
 *September 2016 – December 2016*
 - Record and recall notes from a wearable device
 - Developed in “Monkey C” language specific to Garmin
@@ -66,7 +66,7 @@
 ![Memo screenshot 1](images/memo-1.png)
 ![Memo screenshot 2](images/memo-2.png)
 
-## Personal Projects
+### Personal Projects
 *Early 2016 – Present*
 - Develop web applications primarily in PHP and Python on a Raspberry Pi
 - Example projects: Home automation, solar system object database, scorekeeper  
