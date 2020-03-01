@@ -20,7 +20,7 @@
 - [GitHub repo](https://github.com/dprebyl/V-IR) | [Play the game](https://dprebyl.github.io/V-IR/)  
 ![V=IR screenshot](images/v-ir.png)
 
-## Computer Science Academu Group Projects (PHP/JS)
+## Computer Science Academy Group Projects (PHP/JS)
 
 ### Certified Nursing Assistant Enrollment
 *August 2017 – April 2018*
