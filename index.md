@@ -1,23 +1,23 @@
 ## University of Kansas Projects
 
-### Linguistics Fieldnotes
-*January 2020 – Present*
+### [Linguistics Fieldnotes](https://github.com/dprebyl/LinguisticsFieldnotes)
+*January 2020 – April 2020*
 - Frontend written in Bootstrap for students to transcribe audio recordings
 - PHP backend receives transcriptions from students to store in OneDrive using [rclone](https://rclone.org/)  
 ![Fieldnotes screenshot](images/fieldnotes.png)
 
-### KU Solar Car Driver Dashboard
-*August 2019 – Present*
+### [KU Solar Car Driver Dashboard](https://github.com/KU-Solar-Car/DriverHUD)
+*August 2019 – February 2020*
 - Developed from scratch using HTML/CSS and JavaScript (with [gauge.js library](https://bernii.github.io/gauge.js/))
 - Communicates with Flask backend API via AJAX requests
-- Utilized [GitHub](https://github.com/dprebyl/DriverHUD) for version control and collaborating with team members  
+- Utilized GitHub for version control and collaborating with team members  
 ![DriverHUD screenshot](images/driverhud.png)
 
-### V=IR
+### [V=IR](https://github.com/dprebyl/V-IR)
 *February 2020*
 - Developed an electric grid simulation game for HackKU2020
 - Built using vanilla JavaScript with an HTML5 Canvas
-- [GitHub repo](https://github.com/dprebyl/V-IR) | [Play the game](https://dprebyl.github.io/V-IR/)  
+- [Play the game here](https://dprebyl.github.io/V-IR/)  
 ![V=IR screenshot](images/v-ir.png)
 
 ## Computer Science Academy Group Projects (PHP/JS)
@@ -73,6 +73,6 @@
 ![Solar System screenshot](images/solar-system.png)
 ![Scorekeeper screenshot](images/scorekeeper.png)
 
-You can also check out my [LinkedIn](https://www.linkedin.com/in/drake-p) and my [GitHub account](https://github.com/dprebyl).
+### You can also check out my [LinkedIn](https://www.linkedin.com/in/drake-p) and my [GitHub account](https://github.com/dprebyl).
 
 
