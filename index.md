@@ -6,6 +6,12 @@
 - PHP backend receives transcriptions from students to store in OneDrive using [rclone](https://rclone.org/)  
 ![Fieldnotes screenshot](images/fieldnotes.png)
 
+### [Connect 4](https://github.com/dprebyl/Connect4)
+*March 2020 – April 2020*
+- A KU-themed recreation of the classic game playable against another human or an AI
+- [Play the game here](https://dprebyl.github.io/Connect4/)
+![Connect 4 screenshot](images/connect-4.png)
+
 ### [KU Solar Car Driver Dashboard](https://github.com/KU-Solar-Car/DriverHUD)
 *August 2019 – February 2020*
 - Developed from scratch using HTML/CSS and JavaScript (with [gauge.js library](https://bernii.github.io/gauge.js/))
